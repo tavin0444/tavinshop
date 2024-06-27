@@ -3,9 +3,10 @@ body{
 }
 
 header { 
-    display; flex;
-    flex-direction: column;
+    display: flex;
+    flex-wrap: wrap;
     align-items: center;
+}
 }
 .foto-colher{
     width: 50%;
