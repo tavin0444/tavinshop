@@ -15,16 +15,14 @@ header {
 
 .foto-insta {
     width: 3%;
-    display: grid;
-    grid-template-columns: 33% 33% 33%;
-    text-align: center;
+    display: grid;  
+
 }
 
 .foto-zap {
     width: 3%;
     display: grid;
-    grid-template-columns: 33% 33% 33%;
-    text-align: center;
+ 
 }
 img{
     width: 60%;
