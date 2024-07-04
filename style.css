@@ -21,7 +21,7 @@ header {
     width: 25%;
 }
 
-.produtos{
+.Produtos{
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
