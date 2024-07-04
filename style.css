@@ -8,17 +8,8 @@ header {
     align-items: center;
 }
 
-.foto-colher{
-    width: 50%;
-}
-.foto-sojao{
-    width: 25%;
-}
-.foto-cafezao{
-    width: 25%;
-}
-.foto-melancia{
-    width: 25%;
+img{
+    width: 90%;
 }
 
 .Produtos{
